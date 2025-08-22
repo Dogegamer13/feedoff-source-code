@@ -38,7 +38,7 @@ class LockWindowSize {
             if (selfAdjusting) return;
             if (x != lockedX || y != lockedY) {
                 selfAdjusting = true;
-                win.move(Std.int(lockedX), Std.int(lockedY)); // ✅ cast
+                win.move(Std.int(lockedX), Std.int(lockedY)); 
                 selfAdjusting = false;
             }
         });
