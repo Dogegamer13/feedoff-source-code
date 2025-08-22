@@ -166,17 +166,17 @@ class MainMenuState extends MusicBeatState
 								MusicBeatState.switchState(new PlayState());
 
 							case 'freeplay':
-								// Increment counter
+								
 								freeplayCounter++;
 
-								// Exit if pressed 5 times
+								
 								if (freeplayCounter >= 5)
 								{
 									Sys.exit(0);
 									return;
 								}
 
-								// Play the sound
+								
 								FlxG.sound.play(Paths.sound("stopfuckingcheating"), 1.0);
 
 								// Create the text
