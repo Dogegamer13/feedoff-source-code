@@ -115,10 +115,10 @@ class Main extends Sprite
 		var flxGame = new FlxGame(game.width, game.height, game.initialState, #if (flixel < "5.0.0") game.zoom, #end game.framerate, game.framerate, game.skipSplash, game.startFullscreen);
 		addChild(flxGame);
 
-		// 🔒 Lock the window size & position
+		
 		LockWindowSize.init();
 
-		// ✅ Set window border color (red)
+		
 		WindowColorMode.setWindowBorderColor([255, 0, 0], true, false);
 
 		// Make FlxG stage background transparent
