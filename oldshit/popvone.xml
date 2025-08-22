@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="popvone.png">
+<SubTexture name="down0000" x="0" y="4346" width="1165" height="1968" frameX="-1712" frameY="-358" frameWidth="4608" frameHeight="2607" />
+<SubTexture name="down0001" x="0" y="4346" width="1165" height="1968" frameX="-1712" frameY="-358" frameWidth="4608" frameHeight="2607" />
+<SubTexture name="down0002" x="5491" y="0" width="1142" height="2018" frameX="-1704" frameY="-308" frameWidth="4608" frameHeight="2607" />
+<SubTexture name="left0000" x="2127" y="2263" width="1553" height="2078" frameX="-1060" frameY="-248" frameWidth="4608" frameHeight="2607" />
+<SubTexture name="left0001" x="2127" y="2263" width="1553" height="2078" frameX="-1060" frameY="-248" frameWidth="4608" frameHeight="2607" />
+<SubTexture name="left0002" x="3680" y="2263" width="1474" height="2077" frameX="-1168" frameY="-249" frameWidth="4608" frameHeight="2607" />
+<SubTexture name="right0000" x="0" y="2263" width="2127" height="2083" frameX="-1448" frameY="-250" frameWidth="4608" frameHeight="2607" />
+<SubTexture name="right0001" x="0" y="2263" width="2127" height="2083" frameX="-1448" frameY="-250" frameWidth="4608" frameHeight="2607" />
+<SubTexture name="right0002" x="2268" y="0" width="2026" height="2093" frameX="-1508" frameY="-240" frameWidth="4608" frameHeight="2607" />
+<SubTexture name="up0000" x="0" y="0" width="1142" height="2263" frameX="-1548" frameY="-58" frameWidth="4608" frameHeight="2607" />
+<SubTexture name="up0001" x="0" y="0" width="1142" height="2263" frameX="-1548" frameY="-58" frameWidth="4608" frameHeight="2607" />
+<SubTexture name="up0002" x="1142" y="0" width="1126" height="2234" frameX="-1583" frameY="-90" frameWidth="4608" frameHeight="2607" />
+<SubTexture name="idle0000" x="4294" y="0" width="1197" height="2092" frameX="-1687" frameY="-234" frameWidth="4608" frameHeight="2607" />
+</TextureAtlas>
